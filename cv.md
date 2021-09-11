@@ -1,4 +1,4 @@
-## Goncharov Anton Borisovich
+## Goncharov Anton
 ---
 
 ### Contacts:
