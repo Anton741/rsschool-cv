@@ -33,3 +33,12 @@ Leading specialist at __ООО «Gazpromneft — Digital Solutions»__
 2. [«Tecknomarket»](https://anton741.github.io/Technomarket/) — an e-shop of different electronic devices.
 3. [«Bicycle»](https://anton741.github.io/BicycleLanding_public/) — the main page bicycle selling e-shop.
 4. [to-do list](https://github.com/Anton741/to-do_list)- the app for creating to-do list.
+
+### Skills:
+* HTML, CSS, SCSS, JavaScript, React, Redux, Eslint
+* Base of Webpack
+* Git, Github
+* VsCode
+
+### Language:
+English level - B1
