@@ -130,17 +130,17 @@ body{
 }
 
 .tel{
-  background: url('./phone-call.svg');
+  background: url('./img/phone-call.svg');
   background-repeat: no-repeat;
   object-fit: contain;
 }
 .email{
-  background: url('./gmail.svg');
+  background: url('./img/gmail.svg');
   background-repeat: no-repeat;
   object-fit: contain;
 }
 .tg{
-  background: url('./telegram.svg');
+  background: url('./img/telegram.svg');
   background-repeat: no-repeat;
   object-fit: contain;
 }
